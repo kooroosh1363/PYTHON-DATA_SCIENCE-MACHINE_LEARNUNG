@@ -1,0 +1,13 @@
+Task 1 :
+Using the Python programming language, write a program that receives an English text from the user and prints the number of repetitions of each character of that text in a table. Note that the table should be printed in the terminal as shown below and have two columns named NAME and FREQUENCY?
+
++-------+-----------+
+| NAME  | FREQUENCY |
++=======+===========+
+|h      |         1 |
++-------+-----------+
+
+
+////////////////////////////////////////////////////////////////////////
+
+
