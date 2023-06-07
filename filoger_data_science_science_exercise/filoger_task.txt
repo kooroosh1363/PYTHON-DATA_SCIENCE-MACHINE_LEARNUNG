@@ -11,3 +11,6 @@ Using the Python programming language, write a program that receives an English 
 ////////////////////////////////////////////////////////////////////////
 
 
+Task 1/1 : 
+Using the Python programming language, implement question 1 using the library IMPORT and with the least number of lines of code (maximum of 4 lines of code).
+
