@@ -1,0 +1,5 @@
+Using the Python programming language and only the Numpy library,
+Write a program that receives a number from the user. Then create an array with random numbers between 0 and 100 equal to the number entered by the user.
+  Get the largest value of this array and return it to the user.
+If the largest number was greater than 70, the message "WIN" and otherwise the message "FAIL".
+The user will be displayed.
