@@ -1,2 +1,2 @@
-# PYTHON-exercise
-some python exercise
+# FILOGER-PYTHON_AND_ML
+FILOGER ACADEMY
